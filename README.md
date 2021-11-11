@@ -5,7 +5,8 @@
 - What is where?
 
 ### How to download files?
-![](images/image1.png)
+![Screenshot (390)](https://user-images.githubusercontent.com/82654736/141263640-9c257566-a78d-421d-972f-c6990e7b1269.png)
+
 Click on Code button and then click on Download ZIP
 OR
 Use `git clone https://github.com/ContentUpgrad/Linear-Regression.git` command on your terminal if git is installed in your machine. 
